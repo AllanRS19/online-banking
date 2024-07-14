@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200..1000&display=swap');
+
+:root {
+    --light-grayish-blue: hsl(220, 16%, 96%);
+    --very-light-gray: hsl(0, 0%, 98%);
+    --grayish-blue: hsl(233, 8%, 62%);
+    --bright-cyan: hsl(192, 70%, 51%);
+    --lime-green: hsl(136, 65%, 51%);
+    /* --lime-green: hsl(271, 65%, 51%); */
+    --dark-blue: hsl(233, 26%, 24%);
+    --white: hsl(0, 0%, 100%);
+
+    --px: 20px;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+li { list-style: none; }
