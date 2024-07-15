@@ -7,10 +7,10 @@
     --very-light-gray: hsl(0, 0%, 98%);
     --grayish-blue: hsl(233, 8%, 62%);
     --bright-cyan: hsl(192, 70%, 51%);
-    --lime-green: hsl(136, 65%, 51%);
+    --primary-color: hsl(136, 62%, 42%);
     /* --lime-green: hsl(271, 65%, 51%); */
     --dark-blue: hsl(233, 26%, 24%);
-    --white: hsl(0, 0%, 100%);
+    --white-color: hsl(0, 0%, 100%);
 
     --px: 20px;
 }
