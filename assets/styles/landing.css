@@ -43,7 +43,7 @@ header {
 }
 
 .app-logo-name img {
-    width: 40px;
+    width: 30px;
 }
 
 .navbar-toggle-btn {
@@ -545,7 +545,7 @@ footer .btn-primary {
     .home-img-box {
         width: 55%;
         background: url(../images/bg-intro-desktop.svg) no-repeat bottom left;
-        background-size: 150%;
+        background-size: 200%;
         margin: 0;
         padding: 0;
     }
